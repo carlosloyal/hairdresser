@@ -1,5 +1,19 @@
-.titulo {
-    color: aqua;
-    text-align: center; 
-    font-size: 50px;   
+.header {
+    height: 90px;
+    width: 100%;
+     background-color: Black;
+     position: relative;
+     font-size: 30px;
+     text-align: center;
+     color:white;
+}
+
+.title {
+    width: 600px;
+    height: 60px;
+    margin: 0 auto;
+}
+
+h1 {
+    margin: 0;
 }
